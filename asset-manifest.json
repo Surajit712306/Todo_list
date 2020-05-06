@@ -1,24 +1,24 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.e76e0717.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.e76e0717.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.0afe0594.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.0afe0594.js.map",
-    "static/js/2.2bd1d3a8.chunk.js": "/expo-gh-pages/static/js/2.2bd1d3a8.chunk.js",
-    "static/js/2.2bd1d3a8.chunk.js.map": "/expo-gh-pages/static/js/2.2bd1d3a8.chunk.js.map",
-    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
-    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
-    "favicon.ico": "/expo-gh-pages/favicon.ico",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "service-worker.js.map": "/expo-gh-pages/service-worker.js.map",
-    "workbox-ea6bc304.js": "/expo-gh-pages/workbox-ea6bc304.js",
-    "workbox-ea6bc304.js.map": "/expo-gh-pages/workbox-ea6bc304.js.map"
+    "app.js": "/Todo_list/static/js/app.8d342e84.chunk.js",
+    "app.js.map": "/Todo_list/static/js/app.8d342e84.chunk.js.map",
+    "runtime~app.js": "/Todo_list/static/js/runtime~app.8e02ed5e.js",
+    "runtime~app.js.map": "/Todo_list/static/js/runtime~app.8e02ed5e.js.map",
+    "static/js/2.2bd1d3a8.chunk.js": "/Todo_list/static/js/2.2bd1d3a8.chunk.js",
+    "static/js/2.2bd1d3a8.chunk.js.map": "/Todo_list/static/js/2.2bd1d3a8.chunk.js.map",
+    "favicon-16.png": "/Todo_list/favicon-16.png",
+    "favicon-32.png": "/Todo_list/favicon-32.png",
+    "favicon.ico": "/Todo_list/favicon.ico",
+    "index.html": "/Todo_list/index.html",
+    "manifest.json": "/Todo_list/manifest.json",
+    "serve.json": "/Todo_list/serve.json",
+    "service-worker.js.map": "/Todo_list/service-worker.js.map",
+    "workbox-ea6bc304.js": "/Todo_list/workbox-ea6bc304.js",
+    "workbox-ea6bc304.js.map": "/Todo_list/workbox-ea6bc304.js.map"
   },
   "entrypoints": [
-    "static/js/runtime~app.0afe0594.js",
+    "static/js/runtime~app.8e02ed5e.js",
     "static/js/2.2bd1d3a8.chunk.js",
-    "static/js/app.e76e0717.chunk.js"
+    "static/js/app.8d342e84.chunk.js"
   ]
 }
